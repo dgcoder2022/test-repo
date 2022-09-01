@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T15:45:53.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-BajrXWFhRnav_llbvcL" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T15:48:34.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZSRrOG1cKDSLrcT6rHDC" version="20.2.7" type="github">
   <diagram id="6pJdBTeYar4ddVIbbkLG" name="Page-1">
     <mxGraphModel dx="1784" dy="1074" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -203,16 +203,16 @@
         <mxCell id="YFMMejJKDESbQQod8CHK-69" value="Browser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="203" y="604" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFMMejJKDESbQQod8CHK-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YFMMejJKDESbQQod8CHK-70">
+        <mxCell id="YFMMejJKDESbQQod8CHK-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="YFMMejJKDESbQQod8CHK-70">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="123" y="633" as="targetPoint" />
+            <mxPoint x="123" y="674.5714285714287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YFMMejJKDESbQQod8CHK-70" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="103" y="689" width="40" height="40" as="geometry" />
+          <mxGeometry x="103" y="724" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YFMMejJKDESbQQod8CHK-73" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="93" y="724" width="60" height="30" as="geometry" />
+          <mxGeometry x="93" y="764" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YFMMejJKDESbQQod8CHK-85" value="Server per AZ (3)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="724" width="107.5" height="30" as="geometry" />
